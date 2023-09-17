@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/densugroup/static/css/main.073c9b0a.css",
+    "main.js": "/densugroup/static/js/main.ec642c97.js",
+    "index.html": "/densugroup/index.html",
+    "main.073c9b0a.css.map": "/densugroup/static/css/main.073c9b0a.css.map",
+    "main.ec642c97.js.map": "/densugroup/static/js/main.ec642c97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ec642c97.js"
+  ]
+}
